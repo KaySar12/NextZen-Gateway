@@ -10,8 +10,8 @@ import (
 
 	"github.com/KaySar12/NextZen-Common/utils/logger"
 
-	"github.com/IceWhaleTech/CasaOS-Gateway/service"
 	"github.com/KaySar12/NextZen-Common/model"
+	"github.com/KaySar12/NextZen-Gateway/service"
 	"github.com/gin-gonic/gin"
 	"gotest.tools/v3/assert"
 )

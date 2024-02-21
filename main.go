@@ -21,9 +21,9 @@ import (
 	"github.com/KaySar12/NextZen-Common/utils/logger"
 	"github.com/coreos/go-systemd/daemon"
 
-	"github.com/IceWhaleTech/CasaOS-Gateway/common"
-	"github.com/IceWhaleTech/CasaOS-Gateway/route"
-	"github.com/IceWhaleTech/CasaOS-Gateway/service"
+	"github.com/KaySar12/NextZen-Gateway/common"
+	"github.com/KaySar12/NextZen-Gateway/route"
+	"github.com/KaySar12/NextZen-Gateway/service"
 	"go.uber.org/fx"
 	"go.uber.org/zap"
 )

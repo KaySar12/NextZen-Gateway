@@ -5,12 +5,12 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/IceWhaleTech/CasaOS-Gateway/service"
 	"github.com/KaySar12/NextZen-Common/external"
 	"github.com/KaySar12/NextZen-Common/middleware"
 	"github.com/KaySar12/NextZen-Common/model"
 	"github.com/KaySar12/NextZen-Common/utils/common_err"
 	"github.com/KaySar12/NextZen-Common/utils/jwt"
+	"github.com/KaySar12/NextZen-Gateway/service"
 	"github.com/gin-contrib/gzip"
 	"github.com/gin-gonic/gin"
 )

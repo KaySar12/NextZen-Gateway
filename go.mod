@@ -1,5 +1,5 @@
-module github.com/IceWhaleTech/CasaOS-Gateway
-
+module github.com/KaySar12/NextZen-Gateway
+// module github.com/KaySar12/NextZen-Gateway
 go 1.20
 
 require (

@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/IceWhaleTech/CasaOS-Gateway/service"
 	"github.com/KaySar12/NextZen-Common/utils/logger"
+	"github.com/KaySar12/NextZen-Gateway/service"
 	"go.uber.org/zap"
 )
 
